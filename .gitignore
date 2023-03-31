@@ -1,4 +1,4 @@
 untitled.iml
-../.idea/
-../resources/
-read.me
+.idea
+.\src\main\resources\read.me
+.\src\test\java\read.me
